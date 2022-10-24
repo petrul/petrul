@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @petrul
-- 👀 I’m interested in #NLP (natural language processing),  origins of Christianism, origins of Romaninans, origins of anything really.
+- 👀 I’m interested in #NLP (natural language processing); on the humanist side, I have a few original views on the  origins of Christianism, origins of Romanians, am interested in detecting flaws in official narratives.
 - 🌱 Have a few promising projects, HereBeFriends (novel approache to local social networking) and TextBase (shareable digital library)
 - 💞️ I’m looking to collaborate on them.
 - 📫 How to reach me twitter.com/ptrdim
