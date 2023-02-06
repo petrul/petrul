@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petrul
-- 👀 I’m interested in #NLP (natural language processing); on the humanist side, I have a few original views on the  origins of Christianism, origins of Romanians, am interested in detecting flaws in official well-established narratives.
-- 🌱 Have a few promising projects, HereBeFriends (novel approache to local social networking) and TextBase (shareable digital library)
+- 👀 Interested in #NLP (natural language processing); like detecting flaws in official well-established narratives. #OCR
+- 🌱 Have a few promising projects, HereBeFriends (novel approach to local social networking) and TextBase (shareable digital library)
 - 💞️ I’m looking to collaborate on them.
 - 📫 How to reach me twitter.com/ptrdim
 
